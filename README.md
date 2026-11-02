@@ -120,4 +120,3 @@ macOS OCR程序已静态确认包含Intel与Apple芯片架构；Apple芯片Mac�
 - [脱敏规则清单](contract-desensitizer-offline/references/脱敏规则清单.md)：敏感信息类型与识别边界。
 - [第三方组件及许可证声明](contract-desensitizer-offline/references/第三方组件与许可声明.md)：第三方依赖和许可口径。
 - [MIT许可证](LICENSE)。
-
